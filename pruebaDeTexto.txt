@@ -5,7 +5,10 @@ Prueba De Hoja de Texto para curso de Platzi.
 Esto de las versiones comienza a volverse interesante. Pronto el mundo será mio wajajaja
 
 NickName: LexWz
-Age: 32
+Age: 32 
 Proffession: NobleArtist
+ZodiacSign: Scorpion
+Birthday (mm/yyy): 34/2222
+Size:3 m
 
 Fin de la prueba. Adios.
