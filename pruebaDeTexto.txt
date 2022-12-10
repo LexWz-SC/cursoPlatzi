@@ -7,8 +7,8 @@ Esto de las versiones comienza a volverse interesante. Pronto el mundo será mio
 NickName: LexWz
 Age: 32 
 Proffession: NobleArtist
-ZodiacSign: Scorpion
-Birthday (mm/yyy): 34/2222
-Size:3 m
+ZodiacSign: Leo
+Birthday (mm/yyy): 08/1990
+Size:1.65m
 
 Fin de la prueba. Adios.
