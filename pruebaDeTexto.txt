@@ -11,4 +11,11 @@ ZodiacSign: Leo
 Birthday (mm/yyy): 08/1990
 Size:1.65m
 
+SEMBLANZA
+
+Nacido el 3 de agosto de 1990 en la Ciudad de México. Hijo de David Waag y Laura Martínez,
+creció sus primeros años en compañia de su madre y abuelos maternos.
+
+<<Más sobre LexWz, proximamente>>
+
 Fin de la prueba. Adios.
