@@ -35,8 +35,14 @@ body
 h2
 {
     font-family: 'Courier New', Courier, monospace;
-    color: aqua;
+    color: rgb(0, 190, 190);
     text-align: left;
+}
+#UserTableContainer
+{
+    border: 1px solid rgb(0, 190, 190);
+    width: fit-content;
+    padding: 1em;    
 }
 #UserTable
 {
